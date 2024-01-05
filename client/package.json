@@ -14,7 +14,7 @@
     "@react-three/fiber": "^8.7.4",
     "@reduxjs/toolkit": "^1.8.3",
     "antd": "^4.21.2",
-    "axios": "^0.27.2",
+    "axios": "^1.6.4",
     "emoji-picker-react": "^3.6.2",
     "lodash": "^4.17.21",
     "lorem-ipsum": "^2.0.8",
